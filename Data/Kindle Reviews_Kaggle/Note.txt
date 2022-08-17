@@ -1,0 +1,3 @@
+Due to large size, the "Kindle Review" dataset has separated by 12 parts.
+
+Please join those files to perform execution.
